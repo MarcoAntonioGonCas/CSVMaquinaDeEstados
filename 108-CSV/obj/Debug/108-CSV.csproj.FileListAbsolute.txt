@@ -1,0 +1,7 @@
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\bin\Debug\108-CSV.exe.config
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\bin\Debug\108-CSV.exe
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\bin\Debug\108-CSV.pdb
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\obj\Debug\108-CSV.csproj.AssemblyReference.cache
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\obj\Debug\108-CSV.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\obj\Debug\108-CSV.exe
+C:\Users\Marco\Codigo\C#\Temas investigados\108-CSV\108-CSV\obj\Debug\108-CSV.pdb
