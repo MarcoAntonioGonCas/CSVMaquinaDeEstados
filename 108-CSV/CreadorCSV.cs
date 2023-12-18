@@ -186,26 +186,6 @@ namespace _108_CSV
                     {
                         lstCampos[indiceActual] += letra;
                     }
-                    // otra alternativa
-                    //if (letra == '"')
-                    //{
-                    //    tieneComillasComillas = !tieneComillasComillas;
-                        
-                    //}
-
-
-
-
-
-                    //if (letra == simboloSeparador && tieneComillasComillas)
-                    //{
-                    //    lstCampos.Add(textoActual);
-                    //    empiezaTexto = true;
-                    //}
-                    //else
-                    //{
-                    //    textoActual += letra;
-                    //}
                 }
                 // Cuando el texto empieza sin comillas
                 else
